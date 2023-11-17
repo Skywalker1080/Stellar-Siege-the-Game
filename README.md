@@ -21,7 +21,7 @@ git clone https://github.com/your-username/stellar-siege.git
   pip install pygame
   ```
 
-3. Run the game.
+3. Run the game by running the alien_invasion.py file
 
 4. Follow on-screen instructions to navigate and play the game.
 
